@@ -17,7 +17,7 @@ kramdown:
 title:       "chyves.org - a front end manager for bhyve"
 keywords:    "chyves, bhyve, iohyve, FreeBSD, virtualization"
 description: "chyves project - a front end manager for bhyve"
-source_link: "https://chyves.org"
+source_link: "http://chyves.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: UA-78748357-2
