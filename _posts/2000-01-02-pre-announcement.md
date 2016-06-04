@@ -2,6 +2,7 @@
 title: "pre-announcement"
 bg: orange
 color: black
+fa-icon: fa-bullhorn
 style: center
 ---
 
