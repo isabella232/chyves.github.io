@@ -5,7 +5,7 @@ color: black
 style: center
 ---
 
-Announcement
+Pre-announcement
 ----
 
 Expected alpha release in mid-August 2016.
