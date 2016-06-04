@@ -1,0 +1,21 @@
+---
+title: "thank you"
+bg: white
+color: black
+style: center
+---
+
+Thank you to all the developers, contributors, and general bad asses out there. Without their work and inspiration, this project would not exist.
+
+Here are just a few:
+- Neel Natu
+- Peter Grehan
+- Allan Jude
+- Michael Dexter
+- Leon Dang
+- Tycho Nightingale
+- Matt Churchyard
+- Trent Thompson
+- Jim Thompson
+- Brandon Schneider
+- Peter Toth
