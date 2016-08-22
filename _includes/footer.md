@@ -1,6 +1,4 @@
 
-
-
 [GitHub Org Page](https://github.com/chyves)
 &mdash;
 Issue [tracker](https://github.com/chyves/chyves/issues)
