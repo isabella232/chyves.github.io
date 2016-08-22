@@ -1,2 +1,3 @@
 _site/
 .DS_Store
+.sync-config.cson
